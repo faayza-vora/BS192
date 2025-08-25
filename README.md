@@ -1,2 +1,2 @@
 ## BS192
-#### Kindly read [License][./LICENSE] before referring any of these files.
+#### Kindly read [License](./LICENSE) before referring any of these files.
